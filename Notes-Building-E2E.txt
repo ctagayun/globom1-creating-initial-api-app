@@ -77,3 +77,4 @@ download and install .net 8.osdk
        add swagger to https://localhost:4000/swagger
 
 4. Running and Debugging: 
+    - https://app.pluralsight.com/ilx/video-courses/fbbac3b2-0e56-464b-92f2-0b877f92f12c/7c99c5ed-967e-43f7-aa55-7cbca139b289/ac2cbc02-448b-4bdb-9f6c-658f30cbf042
